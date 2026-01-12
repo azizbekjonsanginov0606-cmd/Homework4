@@ -13,3 +13,4 @@ int a = Convert.ToInt32(Console.ReadLine());
 if (a>=0 && a<=100)
 Console.WriteLine(CheckGrade(a));
 else Console.WriteLine("The score must be between 0 and 100. You entered an invalid number. Please try again.");
+//tazsi 2 be funksiya

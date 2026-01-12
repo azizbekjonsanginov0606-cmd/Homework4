@@ -8,4 +8,4 @@
     }
         double a = Convert.ToDouble(Console.ReadLine());
         int b = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine($"Натиҷа: {Power(a, b)}");
+        Console.WriteLine($"The value of {a} to the power of {b} is : {Power(a, b)}");

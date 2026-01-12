@@ -12,3 +12,4 @@
 /home/hacker/C##/kurci C# .NET/Homework4/task7/obj/Debug/net10.0/task7.pdb
 /home/hacker/C##/kurci C# .NET/Homework4/task7/obj/Debug/net10.0/task7.genruntimeconfig.cache
 /home/hacker/C##/kurci C# .NET/Homework4/task7/obj/Debug/net10.0/ref/task7.dll
+/home/hacker/C##/kurci C# .NET/Homework4/task7/obj/Debug/net10.0/task7.sourcelink.json

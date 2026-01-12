@@ -20,6 +20,6 @@
     }
     Console.Write("Input number of terms for the Fibonacci series : ");
     int a = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine("The Fibonacci series of 10 terms is : 0 1 ");
+    Console.WriteLine($"The Fibonacci series of {a} terms is : ");
     PrintFibonacci(0,a);
     Console.WriteLine();
